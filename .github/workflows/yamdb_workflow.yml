@@ -26,4 +26,4 @@ jobs:
       run: |
         # запуск проверки проекта по flake8
         python -m flake8
-        python manage.py test
+        python api_yamdb/manage.py test
