@@ -1,2 +1,2 @@
 # yamdb_final
-https://github.com/sugunos/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![master](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=master)
