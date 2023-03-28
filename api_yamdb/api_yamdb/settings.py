@@ -10,8 +10,6 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv()
 SECRET_KEY = os.getenv('SECRET_KEY', default='!iwobl^^m3bi*!b-3@(wq&e-jkg9^4n+t&*y$!=y(bohk-ktss')
 
-
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
 ALLOWED_HOSTS = ['84.252.128.7', '127.0.0.1', 'localhost']
